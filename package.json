@@ -1,0 +1,10 @@
+{
+  "name": "Async-Demo-PM",
+  "version": "1.0",
+  "description": "Asynchronous Demo",
+  "main": "index.js",
+  "repository": "https://github.com/Xarfo/Async-Demo-PM.git",
+  "author": "Abdul Ahmad",
+  "license": "MIT",
+  "private": false
+}
