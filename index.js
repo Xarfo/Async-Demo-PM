@@ -1,5 +1,9 @@
 console.log('before');
-setTimeout(() => {
+getUser();
+console.log('after');
+
+function getUser() {
+    setTimeout(() => {
     console.log('Reading a user from database.....');
 },3000);
-console.log('after');
+}
